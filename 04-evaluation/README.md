@@ -1,4 +1,4 @@
-# Model Evaluation Metrics - A Beginner's Guide
+# Model Evaluation Metrics - Summary and FAQ guide
 
 ## Table of Contents
 - [Overview](#overview)
