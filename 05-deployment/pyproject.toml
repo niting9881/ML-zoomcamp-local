@@ -1,0 +1,16 @@
+[project]
+name = "lead-scoring-api"
+version = "1.0.0"
+description = "Lead scoring ML model API"
+dependencies = [
+    "fastapi>=0.104.0",
+    "uvicorn[standard]>=0.24.0",
+    "pydantic>=2.5.0",
+    "scikit-learn>=1.6.1",
+    "pandas>=2.1.0",
+    "numpy>=1.24.0"
+]
+requires-python = ">=3.9"
+
+[tool.uv]
+dev-dependencies = []
